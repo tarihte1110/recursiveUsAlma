@@ -1,2 +1,2 @@
 # recursiveUsAlma
-1. sınıf projelerimden biri
+1. sınıf çalışmalarımdan biri
